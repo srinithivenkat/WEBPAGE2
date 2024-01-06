@@ -83,7 +83,7 @@ html {
   .col-s-11 {width: 91.66%;}
   .col-s-12 {width: 100%;}
 }
-@media only screen and (min-width: 768px) {
+{
   /* For desktop: */
   .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
